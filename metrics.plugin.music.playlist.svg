@@ -23,18 +23,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYBBAMHAgUI/8QAKhAAAgEDAwEHBQEAAAAAAAAAAQIAAwQRBRIhQQYTIjEyM3EWQmGB0cH/xAAZAQACAwEAAAAAAAAAAAAAAAAABAECAwX/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIRAxITISL/2gAMAwEAAhEDEQA/APPYUeFg45m2+zNnVu9EtHWpSXev3HHkcf5NQUiBjM2ZonaO0s9D0+gtxSWrRU7gybuSSYxlg9VRhGf16MlXQancEtUttpPqJG0n+xR7R2BtNPre0x3qp2dfnEZPrazNqaTV6PBz7XH6EXtd1m0vtMr0++pNWdlZQlPb5H+THFCeytE5JrV0xM2AYIBDQlkhSOCITpvGc/qLyny5mVahBGCZXzAuVwyswYcgqesV6Uh3Syz3/Pq4E5LcNgHn5xOvZ3ZyGJLHkzIvhHXPzBZWDxIvi6I6wlEtCW7MrxRiDcSd/wCYQi9m9EZGSeJBaEIWTRBaEISAP//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAEDBggCBAcF/8QAKBAAAQMDBAEDBQEAAAAAAAAAAQIDBAAFEQYSITEUE1FhFSIjMsFB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQACA//EABgRAQEBAQEAAAAAAAAAAAAAAAARAQJB/9oADAMBAAIRAxEAPwCq1GD7UqE7lAVIdPWV+5To8WKyp6S+sNttpHKlE4AqSPbT7EUldBvmkHrbHT5ESSh5Mh5h1xSfxEo27dhx8mobOhFhRwDtozaZGhRSkc0Uh6+k7ei6X2JEcVsbccCVHOOKtxpfRWmrCqFPiwFCVHUkiQHVEoHSlHnHAzzjjuqbRCtLwKFFJ9wrFT7Qmqbrap6IsyV59qlYZkRJbqi2UkjkHP2kfysd5W+FmtRfSJFsQZzBfbiSmwthWdpbUohJKT7bu+yO65feLVpa6M3l2DEhtxPJUiK42DlSUgAlJJ63bgPiuWXDV18kv3NgKQ5bZSfS8d9IKEpBykj/AHKccc1FUMvoSPUkFAHSdxIFZzmendJfoiIVzdZbOW85Sfiimbg8l4s4JJQjaTjs5J/tFdXNqZIPBpxL7ielmiios/Lex+5xTa3Vq/Y0UVRVhRRRUH//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">BITTERSUITE</div>
+                                    <div class="name">i love you</div>
                                     <div class="artist">Billie Eilish</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAMEAgUGBwj/xAArEAABAwMCBAYCAwAAAAAAAAABAAIDBBEhBRIxQVFxBhMUIjJhBxUjUoH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAAMC/8QAGREBAQEBAQEAAAAAAAAAAAAAAAERAgMS/9oADAMBAAIRAxEAPwDxV7vYOtlDd27qeyy3YHZWoAxke4u2vcLk7blo+kukHp58fxO68MrAkgm4z2XZeGfCp12hfPQ18vqzUxwMa6M+WA8Oy91/blvQhc/qMGypq4HOY+alkdG5zODtpIJH1hE6luG82TWuDsG6JcW5ooInmw/xdB4c1al0jWPOrIjNC+M08kZYHNMb2kONjzGCPsLnn8GnmrUZhkpZDIxzpQ0NBDvjnJtzxhVmwy5dfQ34d0uHTdKigiqInP1gSTU8dT7HvjFgwloJ+z1sV5T43mlrtabV1YhE5hdTVPktDQJopC13DF7bTfmCFSrtYg0v9fNoeoVhroWbBIZC5rYyCLWPxOTgdVpK6UCesk+AmkcWxg3AueKx8+LOvpp33sxQPxJ5IsSCGjJRbMUd/YCOPdAXMO5pIKIlJ/UO2WayK/8AbblRSl0jrvJJ7oikG4B6IiIT/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYBBAMHAgUI/8QAKhAAAgEDAwEHBQEAAAAAAAAAAQIAAwQRBRIhQQYTIjEyM3EWQmGB0cH/xAAZAQACAwEAAAAAAAAAAAAAAAAABAECAwX/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIRAxITISL/2gAMAwEAAhEDEQA/APPYUeFg45m2+zNnVu9EtHWpSXev3HHkcf5NQUiBjM2ZonaO0s9D0+gtxSWrRU7gybuSSYxlg9VRhGf16MlXQancEtUttpPqJG0n+xR7R2BtNPre0x3qp2dfnEZPrazNqaTV6PBz7XH6EXtd1m0vtMr0++pNWdlZQlPb5H+THFCeytE5JrV0xM2AYIBDQlkhSOCITpvGc/qLyny5mVahBGCZXzAuVwyswYcgqesV6Uh3Syz3/Pq4E5LcNgHn5xOvZ3ZyGJLHkzIvhHXPzBZWDxIvi6I6wlEtCW7MrxRiDcSd/wCYQi9m9EZGSeJBaEIWTRBaEISAP//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Born Again (feat. Doja Cat &amp; RAYE)
-Explicit Content</div>
-                                    <div class="artist">LISA</div>
+                                    <div class="name">BLUE</div>
+                                    <div class="artist">Billie Eilish</div>
                                 </div>
                             </div>
                         </div>
