@@ -23,18 +23,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAUHBAECBgP/xAAtEAABAwMDAgYBBAMAAAAAAAABAgMEAAURBhIhMUEHExQiUWFxFSMyQoGRsf/EABgBAAMBAQAAAAAAAAAAAAAAAAQFBgEA/8QAJxEAAgIBAgUDBQAAAAAAAAAAAQIAAxEEIQUSExQxIlGBMkFhobH/2gAMAwEAAhEDEQA/APOM7NQMQ7h+nOuPeV5a24qgjKuNp5+Acc/n5phqrSTdwRFUi1ynW22iCDOZbC1bcII79f5e3JFLtL+pf0+xCjIKZIRu2gj38DaT3HBz0569qx3i5ufpjUBaITMZbgb9U2reonuScfHP3WnUdoorA2lbxHSVXAXI+M/b84j+BpuE9axa3LfNcUhwpZDcxhLjSFFYwSVYJ3JPIIzjpzSS4aM07bbIuZLs11dYYSp15KZ7BWlBPGAOQRlPUHitGuNC220abh6msd3fmzGwgKRJdQcAchTZT/znj4xU/gaZn3e/W+G8+GHroovKkvghvackqJ64GDRWhNmooa6kegHeTzIK2w53MQaqTa3pLb1jZmMRSykLTLUlSvMGQSCnjHSiqJ4qeFrem9KRr5aL8i7wgry3h6YtFByE5HJyMqAwcHvzzRRdb13qGPmCXcob0eIxtIjSbhHcQ87HkoSEpkMuHC0BO1KVAcpOMdPv/CbVrlzaugQiep6LBdDzUdPuyrucfOK0+FYF2vEa3soWmUs5DzZ/ikckqB4wOvz91YEWywQY8kQZTE64Z8tcp8Zwvp7R2APU8k/NIlvQ3A2KTgY95W0Vo1WFGcnO083a/EKzTrdMdnPMIkOQlRPSmLlLh2qISFDpyc8cVLrhqC7Q7bZHWWyh21OqjMu7AQv+2wj+wIJBHQg4qi3+BbbjPDEE22IgvAZPtKl4BGxIGVdTjB6ivmrTzLqXmW33NyABvCQ0kZ9oVhYyRkLHGT7R3qs4Vp6ugXUY5/f5H7kxxqwnUhAPp+JOfEXxWveq7E3ZHrbbbTA3JeebhMFsvqHQqyTxnnA70Vz4sTLPHjs29i1K9c623IanKf3nySVFIHXIUDkfW2ik2pprotKVnaDo+RkiYdF396w2N9VubcXdZ2UF0Zy0wnsn8nP+hWOTqdLkxS9imgEkIQhRASrGAT84PNFFd21aJ1F8naPO8tppRE8bTtIvrsS9afua1KkMRChbaFHGQhXQn7xT2Z4w3L0/lMwopcGz95YJKtpJTlIwOCcjHAooradTZVSVUxfxHD3FiNzj+CTW53KRcTHMkpPp2gy2EjGEAkgfeN2PxiiiihiS55m8wQCf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Cry for You (You'll Never See Me Again)</div>
+                                    <div class="artist">The Flashers Brothers</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAIBBgMEBQj/xAAlEAABBAEEAQUBAQAAAAAAAAABAAIDESEEBRIxURMiI0FhgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwD0vI4hzALN/ddLGZXU32uBLi3qqHnvpSZWg5cLS+ox9dE/oQIHcgcyNAdxy7/e+k/qkOaKceRIsfX6cpZHRsaeQaAfIWlPP6bnBpAFZpFroRycwcEEEjIQq+dxLLDSb8oRCO15BycKG7jwIPIKsO11/awS6/FckFo1e6uldQriFqT69zW4cFUhvV7q7SYtsQkJz3fR+ulkn1wJ7QdafXEWSf4hVyfW2TZQgrD9+1D2/HKLSndtZI3MgJ/EIQctur1UO4P1cMp+QBsgdkOA8fq2Hb9KIvc6z5HSEIIg3t0xJOKNdIQhB//Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Carolina ("Where The Crawdads Sing" - Video Edition)</div>
                                     <div class="artist">Taylor Swift</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAQFAwYHAQj/xAArEAABAwMDAwMEAwEAAAAAAAABAgMRAAQSBQYhMUFRE2GBB3FykRQiI8H/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQBBf/EACARAAICAgMBAAMAAAAAAAAAAAECABEDBBIhMVEUgeH/2gAMAwEAAhEDEQA/APprULx20W16duXkLnIhUFMR271iZ1F1xoKVa4OESEZ+8dY+azag0XC0QqMZ480pgEz6i0pSRHWktsqh4kQxi5CwZKe3rbNXK2FsAOtqLbiVOAYqHbkc8EGaZut36fasFx563TAkp9YTWt6/c6e1qYuBpNvdlSBNxkkOEDwCIPTuaj/U5jSdY2O04htJaW8MVIQELTAOST3Hgimrlxs4B6laa60ABZP3+Toe2NwI19t95hgtsojBZVOYM8j9UVO+nKCdILqEBu2WlCWkxBgCJ+3iitsHtZPsoqZSq9AR7eduq80w2ybm4tQ4CC8xwsdOh7VEs/Tcet272+LwaaUhPqgSpR4yUocTHEfNW92LdKLVllIKnCeSlRiI8Ax81rVzZvWdi6bgB5RHEcJP34APyKauuuQd9EzntsHDkLVYEhbzft2SxYsPWrToTADTolCB0UZPTkiBNTtBtE63bvW9wsItg4h5bSSeIy4n8SJpO90pT12l922bRiEpQlABxIM9AIifbmmtuWi7S6QpllTi3VwYGOPUmB16zUza4TaAPY+/qdD84tq88Ypvk67tx9LtupLaUJabASkIHAAkf8orBtUBP8oJlI/qcDMp4PvH6op2RQjUvkkxMXQM3sq3tqbnCHCjGe0zSbuiNPGXVhw9skzFFFZyK1U1sat6IsdttLVk/cKeI6BbaOB44Fep220l3NFw4n8EhJ+xI6j2ooojkY93AGvj8qP6Xprdgp4t4f6EE4oxJjz5ooooGYk2Y1UCCln/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">labour
-Explicit Content</div>
-                                    <div class="artist">Paris Paloma</div>
                                 </div>
                             </div>
                         </div>
