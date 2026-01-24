@@ -23,17 +23,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAABwAFBgQI/8QAMRAAAQMDAwIEBAUFAAAAAAAAAQIDBAAFEQYSIQcxCBMUUSIyQaEVI3GBkSVhweHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAEEAwL/xAAcEQADAQEBAAMAAAAAAAAAAAAAAQIRAxMSITH/2gAMAwEAAhEDEQA/AE7qx1MXoi8W23tQHZTkyOt8FspGAg4Pce3NcS119deAKbc4hLrfnt7lp4bBwT8vIrweJ1ezqHpQ572+Sn+c0U6KgKvlzs1tYzvctjzanMZCE7jk/t96xp4U84lzrHGR143QWX49qcQyFbVyfNBQtQRuKeUDBxz9qzZPiEU2cfh7oGxLnzIPw478p7Gjezafdudvv2mGJyNsWc22JSmfh4ABPfI+X3rjNWxhAvEyF5iV+mihjeBjO04zjuKFWnflJ9adIepbmubvc4TsV1gxGEPAr28hRwOw/eqjrwsOBzXGqdpGEwI6f4VVTJumTWI8Xi8U43q7TDrS0oKITvxKOMZXih3TF7csKlSmSj1S462476ST6YE8nb/3vzTZ4r4UiZqvT3p2POQ3BdU5xnanzMk/aguDJYlOtxXEBDr+E7+AkDsM+wHeimV8Z2R6t8W42DSUmWzHEluU/wCd5zYSSsLxgqHcHPH9qFOpNsk2/VMxt6U3NkPNoU+trgNLVyUHPfHuKZLbrhH4YdOWF1bkg21Zjvlnh11ABIQSOcgKxx3oJ1I+43MeEhZdeKsLVknKhkK5+vJz+tZ8ljHjf6OfhLbWnV+qVrKT5kNkjBzxvPeqtDwtW9uJfbpJZkokJl21pzKR8p8w5Sc8kgnFVbEnTPkzs+s2hL1q67wXrSxFfioiKjvJdmGOrJXkYwlWRj9K4BnojfoiUIt9stzASAnzvXhTp9/iLeOefpiqqgJtyvo3Humep3W2v6bb0PsKQth5E/Cm1J9js7fTHtWHqbonqK+yy4YMRhrulCbkPhUTlRH5fY/7qqowfpQi9HdD3jSU6QbmywzFEQR2Utyy+c79x7gYH+aqqqRw3r1n/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Living Legend</div>
-                                    <div class="artist">Lana Del Rey</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAEEBgcCAwgF/8QALBAAAgEDAwIFAgcAAAAAAAAAAQIDAAQRBSExBkEHEhRxoRORIlFhgbHB8P/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAgP/xAAcEQEBAAICAwAAAAAAAAAAAAABABEhAjEDE0H/2gAMAwEAAhEDEQA/AOWxxjFKKUJnjmnNraS3EyRRIXkdgqqBuxJwB96qmw2IP7VkSRgY+auqPw5bS/DXVBrNhHHqRja4EzEZiK5wPN8YHvVLKpwv+xSblE7kAJJorMr+HK/xRVFst4xkZHzUg6eCWut6bMcBFuYvNkcDzDevDi2PFSTpW09VqEbMT9GMhnydvbFRxVwSIbumWi1PXug00y9jgt7q8tmjkJQMFByA2BvXNnXfQmqdJzL66NHt3JWO4iOVY/ke4OOxq44OtIrezU2bh5FUI+O6jgVCusurptQRlZILq2bcpIM/B7129QG2w+TL1U6xION/vRTzVZrWadjb2/p9+FYlcex4ork6tSYI32p/p17JZsWj5NFFQ4r5b21aQEkA75/QV580ruzOzHLc70UUqsYm7pkHt/VFFFE3/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">winter 4ever (sped up)</div>
                                     <div class="artist">Baby Jane</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQFBgcDCP/EADUQAAEDAgMDCQYHAAAAAAAAAAECAxEABAUSIQYHMQgTMkFCcYGRoRQVI1GS0WFic4LB4eL/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABP/EAB0RAAMBAAIDAQAAAAAAAAAAAAABAhEDIQQiMUH/2gAMAwEAAhEDEQA/ANKt7dGYEhJ/YPtTYYyiUKCe5A+1cbdWuhH1U4kEj/VTwJjm/wDSEqwHOUr1dEGQez8tKoKrizbAbbaTC0HLBUY6p860HlCDIjA1KJgKd7Q/L1fzSOw+CXuHYl71etQm2etwWshBKQdYIgwTNLVKexFxvkrCns8222cjaVFWpXJk0Uw62tp91C2HGviLIQpOoEminn2WkKnG0eibVRJ6/MU8lWg4+QqDYfWCNCfKnUOKUBKT9NY6TNN/7KrsbP2zKFKfeecbbgDicvXV82MuLO6wy4ZZt2X1WbhZck6nKkAx/VUffXiKMMZwq4Q0VYhLqbZwnRqQnMqOBMRHyqb3E2jT+yTl8i4ULhy8cLsa6iAPSKk02+h4pS8f6ZvvWvGWtpWjZ522lshZbB6CsyhGvdRVz5Q2B26cJw7FLVlKHWniy4UpiUqEifEetFOk0sIcq2tRa7O4Q6sZVJV4pNSzXQktmf06KKBVGS8oFSjbYLxyc472YEwn1pfcltSvCn7nAZTlvCXmXFdlYSARH4gT4UUUlNr4aFtoV3t7Q3z3sVgu5cUFNKL4UdFHNp3cKKKKaPgPIeWz/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Too Much</div>
+                                    <div class="artist">Dove Cameron</div>
                                 </div>
                             </div>
                         </div>
