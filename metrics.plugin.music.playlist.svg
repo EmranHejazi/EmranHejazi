@@ -23,17 +23,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAQIDBv/EAC0QAAIBAwQBAwIFBQAAAAAAAAECAwAEEQUSITFBBhNRFHEiMoGRsRUWM2Gh/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMCBf/EAB4RAAICAgMBAQAAAAAAAAAAAAECAAMEERIhMRMF/9oADAMBAAIRAxEAPwBTSLVLexQxiIgqSu8H8RxnHY5pu1srrImnjXDoyPnAROBjGTSMU0aRO2xVto1JCoVYOfjIGa7W9tPLGI5WDqArMqY/bjxSfkB6YUXbOgI7ZpbWyf5PqZujIgOxf9Anj9am3ETX14TOBFETxjJJPzn9uacg08wxtIWcKQRtzjrngVifbbmXfjhTgE85FaVVBmHZiJta6NpN4gk96Swutp3zI5TJBGCaKWjCSaZcGVS8hjxIrDIKscffJz96KFk4nJ9q2o/FzeCcWTcxbaS6oqPHEly5MbpJJsYcfHeP0xTuiiW0jCtFkKxVmzkN8EYP248U16et/wCo282vancQzW9xL7ccbEt9OegUAHgZOcc91x17U2h1RrWKCVrJHCLsh2ZYDEhCk8DOD5yeqmuft+LSjfnhUDKe5SWUW8PuZ398d47+agapHLe3KQBi86MRDHj87EfmOPj+M1f1DSUu2trzRE+o0+a3X3I45d7JJkg5XOcYPY8iollqD6N6hRLuHYJMxM7nOzPnPjoDnxTarA42IO+soeJ8nO5tbvTrmSZ5kllDI3tgHawXns+f+Zopr1DfQ25JmUsCfkD+TRRcihbm5MYnHvaheKDqTdJvrrRxA/piG1ltASGjuGYPggg55AyOvnHfVM/3BrF5ryy62sMNsq7o44l3Kj4wTu7J5JLc9jxRRRLsSoP9Nd+S9FrMNExvVLeW4eCfTJhFeQOxkXOxnUjjHXOefg15nXr+bUJWhiBub8riQlANuD2QOAc4HNFFdOlFVdgdznXuzEAnqR/V880kUFlb52xxpG7sR+IgDkftRRRUW9lF8n//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Lush Life</div>
+                                    <div class="artist">Zara Larsson</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAYHBQgCAwT/xAAzEAACAQIDBQUHBAMAAAAAAAABAgMABAUGEQcSQVFhFCExUnETFSIjMjNCYmOhsZHR8P/EABkBAAMBAQEAAAAAAAAAAAAAAAMFBgQCAf/EACURAAIBAwMEAgMAAAAAAAAAAAECAwAEEQUSMSEiQVET8BRhof/aAAwDAQACEQMRAD8AUs1YhiGC4aLywtYrmKP7qtrqo4EaHwpZy/tHlvcVgtr2zgigdt0vGW1HXvNVEQJIhR1DqwKspGoI5VCto+Vmy3iyy2obsFwS0TeQ8VJ6f1Su32SdjDrUbpf410DBKvd4NXUKApYsAgGuvDTnUtxXalJBiM0WH2ME1sjFY5JC2rDn3GsJLn+7kyUMIJfth+U0/OHTw9eHpXDZjlM5hxQ3N2p93WxBk/cbgo/s9PWiJAsYLS1ot9LitEkmvBkDj7+6rWTcQxDGsK7biNpFapL9lFJ1ZfMdeHKimUIqIFQBVA0AA0AHKisLvk5HSpWaVZHLKMD1XWi6aUt7SpMNjyjeDFhvIw3YQPq9p+O7/wB4a0xyzRwRPLM6xxIpZnY6BQO8k1r1tCzNJmfG/kb3YYdY7dOfNiOZ/wBUW2iLvnwKaaPZPczh+FXqTSmdNelbK7PpMObKdj7o0ECro4P1e0/Le66/xpUxuNm1xHk4Xo3zi4+a8H6NPp08w8f4rF7Nc0Nl7FzFcFuwXHwyr5DwYDpx6VtnAnQ7DxVDqSLqduwgbJQ8e/vitgZHorxtOroHRgysAVZe8EcDRSvFRPxkdKVdoNjjWN2Edhg/sVtXG9M7Sbpbv7l9PA0t5GyDcYbjC32MiErB8UKI29vPwJ9KKKOJmRdg4ptHqEsNuYI8Af2qY0vGpVnHIV1dY215gixLHMd9kLhdx+OnQ+NFFewuUJIodldSWr7o/NM+UYsWw6xe0xWKJYo++EpJvac19OI/xRRRXLnJziuJ5DI5cjGfVf/Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Photograph</div>
                                     <div class="artist">Ed Sheeran</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAgMGAf/EAC0QAAIBAwMCBQEJAAAAAAAAAAECAwAEERIhMQVBEyJRYaEyBhQjM0JScZHw/8QAGgEAAgMBAQAAAAAAAAAAAAAAAgQBAwYFAP/EAB8RAAMAAQQDAQAAAAAAAAAAAAABAhEDBBIhBRMxYf/aAAwDAQACEQMRAD8A4shJYgzH8RTjarfRwtzLDHeTARNjSpHHrioYhkjkZAeNjtXtxDcEAQXLwNIpTUoBxkY71p9Zvg8fTH7SJ9q5fDqJbno73sdsLORrafWsV5kaWdfqHOf75rmuo2629w0SsZV5Xf5zTbSdGl+ysdh93OuNiA+TkSfTqBzn/cUgluymGB5NUscf5meffakNhWq2/YdjzMbaZl6Rh4h8J0OefTmitFy5hckDLdwKK6mcGfUN9otRvDLdSMxZUXzMeW9sUnd3REUIiXxCCdjscUrEWadUAOvgn1p6aEw4yQyvsAOR70LnJKvi+hdm8GCCRHZopInjeIfvC5H8+b5FZ9LuVknYSQkDs2N1G/zUppRb3iQsdQy7EdtW2D81Xt7qVISmlcfV22qnQntsb3l5lL8FpZIy7HQSP06yKKLm28aJnkXSe49qKYaE5c47N/T3ie5HmOkryVyDtS1zcxiYmNjge/eiivNkTKyThqkvlmfTpzk+tVVmVk1FhvjbFFFDCD1XlI3vJEttKiglsDAziiiijK0lg//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Sleepwalker</div>
-                                    <div class="artist">Ava Max</div>
                                 </div>
                             </div>
                         </div>
