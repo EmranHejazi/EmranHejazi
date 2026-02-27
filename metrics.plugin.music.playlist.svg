@@ -23,18 +23,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAIBBgMEBQj/xAAlEAABBAEEAQUBAQAAAAAAAAABAAIDESEEBRIxURMiI0FhgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwD0vI4hzALN/ddLGZXU32uBLi3qqHnvpSZWg5cLS+ox9dE/oQIHcgcyNAdxy7/e+k/qkOaKceRIsfX6cpZHRsaeQaAfIWlPP6bnBpAFZpFroRycwcEEEjIQq+dxLLDSb8oRCO15BycKG7jwIPIKsO11/awS6/FckFo1e6uldQriFqT69zW4cFUhvV7q7SYtsQkJz3fR+ulkn1wJ7QdafXEWSf4hVyfW2TZQgrD9+1D2/HKLSndtZI3MgJ/EIQctur1UO4P1cMp+QBsgdkOA8fq2Hb9KIvc6z5HSEIIg3t0xJOKNdIQhB//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAQFBgcIAf/EACoQAAEEAgECBQMFAAAAAAAAAAEAAgMEBRESIUEGBxMUgTFCcSIyYZGy/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAYEQEBAQEBAAAAAAAAAAAAAAAAARECIf/aAAwDAQACEQMRAD8A56QIsr8uamLtZey7LXYqbq9d09d0uuD5GkHj17kb1/Ktbk0kUuNwuQyb7bKVZ0klWP1pWEgOa38Hqfwq5dF+EqtyGhlvfVIoshdvGQuIP6oi1nDR1sDS1f4wxMWKyWcx4ir8i6Sw08By+xwDXHqAGud0H179tJO9uGvPjBERFUogPHR0DrrpFMxFGS/diijMTW8m83SytjaBvuXEBKHUWKrC1JHdk5A2a1f0276FwjEbhoH7SPodaWovPiEReMLgb0LYa7/hzXMd/lqvMH4ztYnJ3J8nJA3HC46djRZieQxx1sBpJ3rWwqLz9swP8XEV3l7p6teQuA6BoDtaPfZJPwFHiWdKdXY1eiIuhMREQEn1Ifahoaznx1+zr/a9v3p7wre5dzdXhEDD34AkgfG9IizAioiID//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Carolina ("Where The Crawdads Sing" - Video Edition)</div>
-                                    <div class="artist">Taylor Swift</div>
+                                    <div class="name">Spiritual Instinct</div>
+                                    <div class="artist">Alcest</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcFBggEA//EACwQAAEDAwMDAwQCAwAAAAAAAAECAwQABREGEiEHEzFBUWEUInGRM6FCcsH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAAID/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERMf/aAAwDAQACEQMRAD8A6bTqrUjF7ZtjkhiYhecPOR+MAnBykjjimTFv0iGuG3LiMuOSDtT9O768ehHz70oJkT6hyGjGVJjtoSPAIxnn91fentnbVfLclYRlCw5tJ8bQTkD+q546U1pUK4KLeHkNqSnnYTtP545qOlRbihOPqQQAeStWckVDal6p6Ys2pZdquEmQmVGIS5sZKkg4BxkH5qKf6raRdBCbopP+zSx/ymiR3S0SWJCVvyd7SQcp3k5/dFUe8680/MXsjXtloH/Ne8Af1RWcKutyGS+x9M8twJaQSrGPuxyKavSx1Uu7yFraQlMZgJK8fdlRz5/FVjTnViBPhSRHsDcdcZvfiQoI3++Pt5ob60F66tWqy2qJJkSBy+h47GgTjJwkk4zk/FagvCh1HZZGpNSanuLrt1RPdmrcjsx2N6C2onaorzjGB6eAKWjZLd1Ee4TSpndsW42pSgnPG7jk49h5rW2iel0eOxeZlyusqe9Jec77jR7aM7c7m0gEg5UQDnx6Vn3qjpBuFKdvFm7CLUpDKexuKXAsIws7CM4yknPzWol/0j0x0y65bRMZm3Via2tbcrvKQ2opBPlKhwdiuPPqT6UUuulV51V3XYFhZZkQxlZElAUhlRGCUEqTgqHBGcEeRRRYmibtb+/ZX3YiVuSENFTbG77VLA4yPzSl04o2DVumMQVofEdxDrf8a+4tBPPHjiiiiJfLRBu18ibo9wn2mMqQ6VtNS8gjeoY24wfbzg17MdLbCpxbt4Mi5uH1fcwlI9kpTgAfAFFFUaSUPTen7Mjt220sNJ+EZP7PNFFFKf/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAIDBAYI/8QAKBAAAQIEBQIHAAAAAAAAAAAAABESAQIDMQUTFCFhBkEEFSIkMjOB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDmMABAAAAAAJU2PhmOZ3bciAMn2iy/fDbe1+Cio18WK3styIAAAAAABb4XK1VHUu075cxl2LunKAAbj1LL0NDB68cBnxLzH05cKvxjvBV4Rf0AAf/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Sabotage
-Explicit Content</div>
-                                    <div class="artist">Beastie Boys</div>
+                                    <div class="name">DAISIES</div>
+                                    <div class="artist">Justin Bieber</div>
                                 </div>
                             </div>
                         </div>
