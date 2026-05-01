@@ -23,18 +23,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAQFAwYHAQj/xAA0EAABAwMCAwQGCwAAAAAAAAABAgMRAAQFBiESEzEHIjJBFTZRYXG0FyNScnWBgpGSodH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A3DUGoMraZ/JNsXriWkl9KG4SUo5duVJjafEZPWYFScjkslb6cv3W8ldc8ZJ5tLh4SpCEMqWEjuxEpHUExVFqz1iyf3rz5WrPNeq9/wDitz8s5Qbjo55+6waLq7uHX3nnXVErIhIDikhKYAgAD3/GrvpWu9n7DbOmGFNhQLrz61SonfmrG0nbp0ECtjoApSlByPWCXlZfMO8CeS68tC1m3QocTDIcbElJ3mZmZG1YWsjcZmyUi7d+rTdqU40G0cDigbwhSgU7mGWt+u3vqZq2+KbjJ2HAngVeXVwVzuCLThiP1VUYZCmnb1J8Cn23E/mxez/YNBOxeeyzD1oym/d5SH27cp4EAKC3VFSiAkd4xEiNp8zNdfPWuFYxtDL1o03IbbvLdKZUSY5rh6nc9fOu6nqaAKU9tKD5N+kfJXlo5d32TxJvXwhTqF4ppRWUnaTw7x5TWO87VNQMugW1/i3kxPF6PZG/eH2fYtX8j7aUoID/AGm510qU4rDKlHLPFjWVFSSZI8PSd/jUxHbbrRCQkX9tCQAAmzbAA/alKDxfbhree7kLaPfZt/5SlKD/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Grow Up</div>
+                                    <div class="artist">Gloria Tells</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUEBgIDBwH/xAAwEAACAQIFAgIJBQEAAAAAAAABAgMAEQQFEiExE0EiUQYVI2FicaGxshQkMjNCcv/EABkBAQADAQEAAAAAAAAAAAAAAAQBAwUAAv/EAB4RAAICAwEAAwAAAAAAAAAAAAABAhEDITESBBNh/9oADAMBAAIRAxEAPwDlqSYKPASB2iTErGpRTEDfwKRbw73Ja5J22rDEYnCLlkTRNCcWdOpeit776rjTYAbWIJv9k2YsP1MYOy9GP8FqOjcgC1vfeirGnuzIc3yi0Lh5wmJzKLLZcZkUbMoxMcCqo3sCx03sO5ArBJcrOGzZusnVRv2YaEDqLvubLzxzamuW+leUYb0MfLSjJMInhaPxa3J2VrjawBNxcX8qoRNoh57V313+C/kwjiUfG7LFO2WSZTGYpC2P0e0jMKhf4uSVYD3Jt977FI8KwMrWI/rf8TRUOPl9DRfpbR7mDe3jUAH2Uff4FqA8rXKrZflUrHk9VGvuIk7fCKXJcuAt2J8hSsUU1Zbggm22joWWPhvUKn1ZgpMZJhjGJmJva3OngmqKJCosxuPeKmQGY4FiEm8G2sA+HyHlSyTUrAMrD5i1TCPbHZ4xnFKifhGHWa1rdN+P+TRWvC2ErEHYxv8AiaKPk6Z8Fo24iMzWKtFYxqN5FH+QDyaXlTFLoci691a/1FFFXYm+F2HVjSPLsxMTRwKZEaIzHTLwvO4vz3tzStFLyBAwJPdm2+tFFe09Ni8qpE2JDGWZmj0hGG0insR2NFFFGewCVH//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Standing Next to You</div>
                                     <div class="artist">Jung Kook</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMBAgcFBP/EAC8QAAIBAwIDBgQHAAAAAAAAAAECAwAEEQUhEkJRBhMxMkFyYXGBkQcUFSJSobH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMSRc53Aq3AP5rURc/tp1mrzXMMCOVMjhB0GTjwqFl8Ax51+9HAMeda0S+/D83EczdmtTa9lhBL29wndyMFOGZMbMM7fCs9uhPFM8NyHR0PCyNtg/KgS68ONwQehoqz+Ce2igiLm9tMtRI1zCICRMXXgwebO390uPn9tMtZvy9xHMACUYN9qDWdcvru1u/0i9vWsNXtgi21xAMJ3vrw+q5P0IJrNO0t097rFzczIUnkcmQZz+/mx8M5NbF2r0iK70rQdZuWxfRRK9xHzyKvlYDpsoPSsU1OTvbpmwMkkn70HnYbJ7aKlvBPbRQUjbhJ2BB6inwTGGZJY0j40YMuVyMjcZB2P1oooO1q3bDXNWbiv71pW6hQn+AVwjJxEkouflRRQUds+gGNthRRRQf/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Cassandra
-Explicit Content</div>
-                                    <div class="artist">Taylor Swift</div>
                                 </div>
                             </div>
                         </div>
